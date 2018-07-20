@@ -1,2 +1,10 @@
-# telegram_game_hack
+# HACK TELEGRAM GAMES!!
 Hack the score and shove it in your friends' face in Telegram Lumberjack, Math Battle or Corsairs
+
+# HOW TO:
+- open any telegram game up in your desktop browser
+- right click and hit inspect
+- navigate to the console tab
+- copy the code from the file and paste it in the console
+- change the MY_SCORE variable
+- shove it in your friends' faces!
